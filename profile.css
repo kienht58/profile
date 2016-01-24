@@ -32,10 +32,6 @@ body {
 	font-size: 1.2em;
 }
 
-.list {
-	padding-left: 20%;
-}
-
 .attr {
 	padding-left: 20%;
 	list-style-type: none;
@@ -66,4 +62,9 @@ a.visited {
 	color: #fff;
 	font-size: 20px;
 	transition: 0.5s;;
+}
+
+
+.list {
+	padding-left: 20%;
 }
